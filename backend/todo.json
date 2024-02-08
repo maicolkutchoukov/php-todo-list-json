@@ -1,0 +1,29 @@
+{
+    "todoList":[
+      {
+        "id" : 1,
+        "text": "Mangiare",
+        "is_complete" : true
+      },
+      {
+        "id" : 2,
+        "text" : "Dormire",
+        "is_complete" : true
+      },
+      {
+        "id" : 3,
+        "text" : "Giocare",
+        "is_complete" : false
+      },
+      {
+        "id" : 4,
+        "text": "Uscire",
+        "is_complete" : false
+      },
+      {
+        "id" : 5,
+        "text": "Andare in palestra",
+        "is_complete" : false
+      }
+    ]
+  }
